@@ -4,4 +4,4 @@ This is a basic recipe website I`ve built with the help of The Odin Project, a l
 
 # Thanks
 
-![The Odin Project Logo](https://www.theodinproject.com/mstile-310x310.png "TOP-LOGO")
+![The Odin Project Logo](https://www.theodinproject.com/mstile-310x310.png "Logo from The Odin Project" style="width:200px;")
